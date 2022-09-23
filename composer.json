@@ -1,5 +1,5 @@
 {
-  "name": "mmucklo/email-parse",
+  "name": "formatz/email-parse",
   "type": "library",
   "description": "email-parse a (reasonably) RFC822 / RF2822-compliant library for batch parsing multiple (and single) email addresses",
   "license": "MIT",
@@ -25,8 +25,8 @@
   },
   "require": {
     "php": ">=7.1",
-    "true/punycode": "~2.0",
-    "psr/log": "~1.0",
+    "true/punycode": "^2.0",
+    "psr/log": "^1.0|^2.0",
     "laminas/laminas-validator": "^2.13",
     "ext-mbstring": "*"
   },
