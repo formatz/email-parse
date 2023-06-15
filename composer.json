@@ -1,5 +1,5 @@
 {
-  "name": "mmucklo/email-parse",
+  "name": "formatz/email-parse",
   "type": "library",
   "description": "email-parse a (reasonably) RFC822 / RF2822-compliant library for batch parsing multiple (and single) email addresses",
   "license": "MIT",
